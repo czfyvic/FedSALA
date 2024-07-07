@@ -5,7 +5,7 @@ Handling distributed structured data while ensuring privacy protection is an urg
 ![The Framework of FedSALA](./framework.png)
 
 # DataSet
-The experimental dataset includes Cora[1], Citeseer[2], BlogCatalog[3] and Facebook[4], you can download it yourself on the Internet.
+The experimental dataset includes Cora[1], Citeseer[2], BlogCatalog[3], Facebook[4] and TeleComm[5] datasets, you can download it yourself on the Internet.
 
 # Experimental environment
 + torch == 2.2.2
@@ -19,3 +19,4 @@ The experimental dataset includes Cora[1], Citeseer[2], BlogCatalog[3] and Faceb
 - [2] C. L. Giles, K. D. Bollacker, and S. Lawrence, “Citeseer: An automatic citation indexing system,” in Proceedings of the third ACM conference on Digital libraries, 1998, pp. 89–98.
 - [3] L. Tang and H. Liu, “Relational learning via latent social dimensions,” in Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, 2009, pp. 817–826.
 - [4] B. Viswanath, A. Mislove, M. Cha, and K. P. Gummadi, “On the evolution of user interaction in facebook,” in Proceedings of the 2nd ACM workshop on Online social networks, 2009, pp. 37–42.
+- [5] X. Hu, H. Chen, S. Liu, H. Jiang, G. Chu, and R. Li, “Btg: A bridge to graph machine learning in telecommunications fraud detection,” Future Generation Computer Systems, vol. 137, pp. 274–287, 2022.
